@@ -1,0 +1,12 @@
+{
+  "name": "backend coffeApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "backend para la app CoffeeApp creada con ReactNative",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.6.0",
+    "nodemon": "^1.18.4"
+  }
+}
